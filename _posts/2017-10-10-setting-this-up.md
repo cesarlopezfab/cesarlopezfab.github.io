@@ -4,7 +4,7 @@ title: "Setting this up"
 date: 2017-10-10
 ---
 
-I decided to start a site project once again. Not sure what will be this time. What I really decided to do is to start a blog using github pages to document the steps I take during this project. This (hopefully) will help me recall mistakes/problems I have when I decide to start a new project in the future. As one of my desired side projects was to start to write a blog this will help to kill two birds with one stone. Also I'll write this in english even if I'm a spanish speaker. I'll try to keep a spanish version too but probably won't do it in the short term.
+I decided to start a site project once again. Not sure what will be this time. What I really decided to do is to start a blog using github pages to document the steps I take during this project. <!--more-->This (hopefully) will help me recall mistakes/problems I have when I decide to start a new project in the future. As one of my desired side projects was to start to write a blog this will help to kill two birds with one stone. Also I'll write this in english even if I'm a spanish speaker. I'll try to keep a spanish version too but probably won't do it in the short term.
 
 For my future me:
 
