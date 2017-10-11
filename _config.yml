@@ -1,3 +1,5 @@
 name: César López
 markdown: kramdown
 excerpt_separator: <!--more-->
+
+theme: jekyll-theme-cayman
