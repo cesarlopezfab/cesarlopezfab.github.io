@@ -1,5 +1,8 @@
 name: César López
 markdown: kramdown
 excerpt_separator: <!--more-->
-
 theme: jekyll-theme-cayman
+title: César López
+description: Personal site for my blog and in the future hopefully my side projects
+show_downloads: false
+google_analytics: UA-108011488-1
