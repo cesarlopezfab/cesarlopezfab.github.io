@@ -1,0 +1,23 @@
+---
+assets_base: /assets/phaser-games
+assets: /assets/phaser-games/assets
+container: game-container
+---
+<!doctype html>
+<html lang="en">
+<head>
+  {% include head.html %}
+  <title>Star collector</title>
+  <script type="text/javascript" src="{{ layout.assets_base }}/js/phaser.min.js?v= | append: site.github.build_revision | absolute_url"></script>
+  <style type="text/css">
+    body {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  {% include header.html %}
+  {{ content }}
+  <div id="{{ layout.container }}"></div>
+</body>
+</html>

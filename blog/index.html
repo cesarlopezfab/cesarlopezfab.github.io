@@ -3,7 +3,6 @@ layout: default
 title: César López's Blog
 ---
 <ul class="posts">
-
   {% for post in site.posts %}
   <dl>
       <dt><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></dt>
@@ -11,5 +10,4 @@ title: César López's Blog
       {{ post.excerpt }}
     </dd>
   {% endfor %}
-
 </ul>
